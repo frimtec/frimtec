@@ -8,7 +8,7 @@
     </p>
     <p align="center">
       <a href="https://github.com/frimtec">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frimtec&theme=transparent">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frimtec&theme=transparent&layout=donut-vertical">
       </a>
     </p>
   </div>
