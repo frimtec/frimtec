@@ -13,3 +13,4 @@
     </p>
   </div>
 </details>
+<a rel="me" href="https://swiss.social/@frim">Mastodon</a>
